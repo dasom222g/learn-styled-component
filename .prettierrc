@@ -1,0 +1,13 @@
+{
+  "printWidth": 1000,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "semi": true,
+  "jsxBracketSameLine": true,
+  "jsxSingleQuote": false,
+  "quoteProps": "as-needed",
+  "useTabs": false,
+  "filepath": "",
+  "requirePragma": false,
+  "insertPragma": false
+}
